@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0px;
+    padding: 20px;
+}
+
+.cytat {
+    font-style: italic;
+    color: #555;
+    border-left: 4px solid #007bff;
+    padding-left: 10px;
+    margin: 20px 0;
+}
+
+#colier {
+    font-weight: bold;
+}
+
+#tekst {
+    color: #333;
+    background-color: #e9ecef;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+p {
+    margin: 10px 0;
+}
+
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    margin-top: 20px;
+    background-color: #007bff;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 16px;
+    
+}
+
+.button:hover {
+    background-color: #0056b3;
+}
